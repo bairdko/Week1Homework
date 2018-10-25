@@ -3,4 +3,4 @@
 
 This is the very first homework assigned in bootcamp. The point of this homework was to learn the principles of HTML and CSS.
 
-Known flaws: sticky footer is not sticky!
+**Known flaws:** sticky footer is not sticky!
